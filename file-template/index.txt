@@ -1,0 +1,2 @@
+export * from './CpnName';
+export * from './CpnName.type';
