@@ -2,6 +2,7 @@
 	"name": "react-template-split",
 	"displayName": "react-template-split",
 	"description": "react-template",
+	"publisher": "dasdingo",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.63.0"
