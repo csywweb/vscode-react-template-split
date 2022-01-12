@@ -1,6 +1,6 @@
 import React from 'react';
 import { CpnNameProps } from './CpnName.type';
-import 'CpnName.scss';
+import './CpnName.scss';
 
 const CpnName: React.FC<CpnNameProps> = (props) => {
   return <div className="ClassName">CpnName</div>

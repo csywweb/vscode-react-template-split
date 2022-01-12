@@ -109,7 +109,6 @@ export function activate(context: vscode.ExtensionContext) {
 
 			const componentName = value;
 			const fullPath = `${folderPath}/${componentName}`;
-
 			generateComponent(componentName, fullPath);
 		});
 	});
