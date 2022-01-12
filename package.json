@@ -5,6 +5,9 @@
 	"publisher": "dasdingo",
 	"version": "0.0.2",
 	"icon": "icon.png",
+	"repository": {
+		"url": "https://github.com/csywweb/vscode-react-template-split"
+	},
 	"engines": {
 		"vscode": "^1.63.0"
 	},
